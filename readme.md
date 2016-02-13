@@ -1,3 +1,3 @@
-Discogs Client API for Python
+Discogs API Client for Python
 ====================
-Explorations
+Explorations with using the Discogs API.
